@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://affectionate-chandrasekhar-be9873.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="">
       Solution
     </a>
     <span> | </span>
@@ -42,7 +42,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
--   R: I, you can see my demo in this hosting:
+-   R: I, you can see my demo in this hosting: <a href:"https://affectionate-chandrasekhar-be9873.netlify.app">Demo</a>
 - What was your experience?
 -   R: Hi, i'm not experience on jobs, but I'm learning and I want to become a great programmer
 - What have you learned/improved?
